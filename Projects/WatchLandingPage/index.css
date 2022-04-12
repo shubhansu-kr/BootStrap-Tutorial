@@ -1,6 +1,7 @@
 body {
     background: url(./Resource/Images/rolex-gfdc144a71_1920.jpg) no-repeat center center fixed;
     background-size: cover;
+    transition: all 1.5s;
 }
 
 .hero, .nero {
