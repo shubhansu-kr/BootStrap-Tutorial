@@ -1,0 +1,16 @@
+body {
+    background: url(./Resource/Images/rolex-gfdc144a71_1920.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.hero, .nero {
+    color: rgb(255, 255, 255);
+    margin-top: 5%;
+    font-size: 60px;
+    letter-spacing: -0.05em;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nero {
+    margin-top: 2px;
+}
